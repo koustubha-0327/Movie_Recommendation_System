@@ -1,5 +1,7 @@
 # Movie_Recommendation_System_Using_Python
 An application that allows users to enter into their account, choose their favourite movie, and then find comparable movies to that movie.
+<img width="1440" alt="Screenshot 2023-04-22 at 3 37 35 PM" src="https://user-images.githubusercontent.com/106465081/233777857-a2d67d2f-f861-4e69-af75-af3ce30cc4a4.png">
+
 # Recommendation System
 A recommendation engine is a sort of machine learning that gives relevant suggestions to clients. Prior to the recommendation system, the most prevalent method of purchasing was to ask friends for suggestions. However, Google now knows what news you will read based on your search history, watch history, and purchase history, and YouTube knows what sort of videos you will watch based on your search history, watch history, and purchase history. A recommendation system assists a company in attracting loyal customers and developing trust by offering them with the products and services for which they visit your website. Today's recommendation algorithms are so advanced that they can handle even first-time visitors to the site. They can also suggest items that are currently popular or highly rated. For this project I used content-based filtering.
 # Content-Based Filtering
