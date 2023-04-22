@@ -1,5 +1,6 @@
 # Movie_Recommendation_System_Using_Python
 An application that allows users to enter into their account, choose their favourite movie, and then find comparable movies to that movie.
+
 <img width="1440" alt="Screenshot 2023-04-22 at 3 37 35 PM" src="https://user-images.githubusercontent.com/106465081/233777857-a2d67d2f-f861-4e69-af75-af3ce30cc4a4.png">
 
 # Recommendation System
