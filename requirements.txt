@@ -1,0 +1,2 @@
+Requirements: 1. Streamlit
+	      2. Requests
