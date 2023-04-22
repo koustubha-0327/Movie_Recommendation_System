@@ -70,8 +70,7 @@ def main():
         st.write(
             '''
             WELCOME TO Flicks & Chill.
-            - PICK ONE!!
-             - GET SIMILAR!!
+            - Pick a Flick and Get Recommendations for Similar Movies to Enjoy !!
             '''
         )
         image = Image.open('bg_image.png')
